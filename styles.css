@@ -50,6 +50,10 @@
   border-radius: 50%;
   border: solid 3px #00ff15;
   border-width: 4px;
+  box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.05),
+    20px 20px 20px rgba(0, 0, 0, 0.3),
+    inset -8px -8px 15px rgba(255, 255, 255, 0.05),
+    inset 20px 20px 20px rgba(0, 0, 0, 0.3);
 }
 
 /* Style the profile picture */ 
